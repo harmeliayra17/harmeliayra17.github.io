@@ -21,4 +21,9 @@ Hello everyone! My name is **Harmelia Yuli Rahmatika. A**, and I am an undergrad
 - **UI/UX Design:** Wireframing, Prototyping, User Testing  
 - **Soft Skills:** Problem Solving, Team Leadership, Public Speaking  
 
----
+
+## 🌐 Find Me Online
+
+- [LinkedIn](https://www.linkedin.com/in/harmeliarahmatika/)
+- [GitHub](https://github.com/harmeliayra17)
+- [Instagram](https://www.instagram.com/harmeliayra/)
